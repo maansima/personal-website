@@ -8,9 +8,12 @@ body {
 }
 
 h1{
+  background-color: #f7ebdf;
+  width: fit-content;
     font-family: 'CaslonCP';
     src: url('CaslonCP.otf');
     padding-left: 3%;
+    padding-right: 3%;
     margin-top: 6%;
     font-size: 80px;
 }
