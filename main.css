@@ -3,6 +3,7 @@ body {
   background-color: #ffac9e;
   color: #171d22;
   height: 100%;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
@@ -91,7 +92,7 @@ h2{
 
 
 #me{
-  height: 25rem; 
+  height: 30rem; 
   width: auto;
   margin-top: 2%;
 }
