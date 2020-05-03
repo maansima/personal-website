@@ -1,6 +1,6 @@
 
 body {
-  background-color: #ffac9e;
+  background-color: #f7ebdf;
   color: #171d22;
   height: 100%;
   width: 100%;
@@ -15,7 +15,7 @@ h1{
     src: url('CaslonCP.otf');
     padding-left: 3%;
     padding-right: 3%;
-    margin-top: 6%;
+    margin-top: 5%;
     font-size: 80px;
 }
 
@@ -67,7 +67,7 @@ a{
 }
 
 h2{
-  background-color: #f7ebdf;
+  background-color: #ffac9e;
 }
 
 
